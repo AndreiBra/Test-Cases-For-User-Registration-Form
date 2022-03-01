@@ -5,7 +5,7 @@ Creation of test cases, checklists, bug reports, for user authorization forms.
 
 ### Picture № 1
 
-![picture for testing bags 1](https://user-images.githubusercontent.com/100410326/155965002-b4300c4d-1cd0-4d0e-a8ce-5706bf8be3df.png)
+![picture for testing bags 1](https://github.com/AndreiBra/Test-Cases-For-User-Registration-Form/issues/1#issue-1155091120)
  "<img src=\
 https://github.com/AndreiBra/Test-Cases-For-User-Registration-Form/issues/1#issue-1155091120\" title=\"Фото №1\" width=\"200\" height=\"200\"/>\n",
 
