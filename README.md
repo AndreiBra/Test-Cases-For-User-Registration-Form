@@ -1,4 +1,4 @@
-## Задание: Необходимо протестировать форму авторизации пользователя представленого  по результатам теста, оформить чек лист. 
+## Задание: Необходимо протестировать форму авторизации пользователя и оформить чек лист. 
 
 ### Picture № 1
 
@@ -6,4 +6,4 @@
 
 
 
-Чек-лист можно посмотреть<p><a href="https://docs.google.com/spreadsheets/d/1HLle_jrWKJWqic7MXeYbEba0FEYyeEytAQYXniPcECI/edit?usp=sharing">здесь</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1HLle_jrWKJWqic7MXeYbEba0FEYyeEytAQYXniPcECI/edit?usp=sharing">Чек-лист можно посмотреть здесь</a></p>
