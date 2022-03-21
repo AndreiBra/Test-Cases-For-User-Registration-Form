@@ -1,4 +1,4 @@
-## Задание: Необходимо протестировать форму авторизации пользователя и оформить чек лист. 
+## Задание 1: Необходимо протестировать форму авторизации пользователя и оформить чек лист. 
 
 ### Picture № 1
 
@@ -8,7 +8,7 @@
 <p><a href="https://docs.google.com/spreadsheets/d/1HLle_jrWKJWqic7MXeYbEba0FEYyeEytAQYXniPcECI/edit?usp=sharing">Чек-лист можно посмотреть здесь</a></p>
 
 ---
-## Протестировать форму регистрации пользователя на сайте http://itcareer.pythonanywhere.com/
+## Задание 2: Протестировать форму регистрации пользователя на сайте http://itcareer.pythonanywhere.com/
 
 ### Picture № 1
 
