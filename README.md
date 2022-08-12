@@ -15,4 +15,5 @@
 
 <img width="264" alt="авторизация" src="https://github.com/AndreiBra/Test-Cases-For-User-Registration-Form/blob/main/screen/reg%20form%201.png">
 
+
 ### Требования, чеклист, багрепорт и рекомендации [смотреть здесь](https://docs.google.com/spreadsheets/d/1f3f1RKsEJ7f0_dpAM1Cv5NBn1Y6l2IGaSckiuCLRMMk/edit#gid=1667858029) 
